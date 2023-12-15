@@ -4,7 +4,7 @@ DIY hand brake for game using KIA's accelerator pedal
 
 necessary parts = (Hyundai Mobis Part Number : 23700A, Arduino micro, 10k Variable resistance)
 
-3D Printing parts = https://www.thingiverse.com/thing:3737082
+[![CAD](https://img.shields.io/badge/Thingiverse-3DPrintingParts-blue?logo=thingiverse)](https://www.thingiverse.com/thing:3737082)
 
 Copy Joystick folder to Arduino Libraries.
 
